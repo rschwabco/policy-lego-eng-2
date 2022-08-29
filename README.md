@@ -1,1 +1,5 @@
-# policy-lego-eng-2
+# policy-template
+
+Repository template for Aserto policy repos.
+
+
